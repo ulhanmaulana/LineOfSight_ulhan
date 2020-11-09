@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LineOfSightDemo\Scripts\AI.cs">
+    <Files>
+      <File FileName="Assets\LineOfSightDemo\Scripts\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\LineOfSightDemo\Scripts\AI.cs" Line="33" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
